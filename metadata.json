@@ -1,0 +1,5 @@
+{
+  "name": "SIGA",
+  "description": "Um assistente inteligente para educadores criarem planos de aula detalhados e alinhados à BNCC. Os usuários podem especificar disciplina, ano e tópico, opcionalmente fornecendo conteúdo extra via upload de arquivos e habilitando a busca na web para informações atualizadas. O aplicativo também possui um editor de texto rico para refinar os planos e um histórico de planos salvos.",
+  "requestFramePermissions": []
+}
